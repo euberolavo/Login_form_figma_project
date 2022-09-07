@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600&display=swap');
+
+
+.login {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20vh;
+}
+
+.imagem {
+    width: 651px;
+    height: 482.24px;
+}
+
+.formbox {
+    display: flex;
+    flex-direction: column;
+}
+
+.forminput {
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+}
+
+.formbox h3 {
+    width: 356px;
+    height: 54px;
+    margin: 0px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+
+
+    color: #6C63FF;
+}
+
+.formbox label {
+
+    width: 62px;
+    height: 27px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #ACACAC;
+}
+
+.forminput__input {
+    box-sizing: border-box;
+
+    width: 370px;
+    height: 55px;
+    left: 839px;
+    top: 331px;
+    padding-left: 17px;
+
+    border: 2px solid #CACACA;
+    border-radius: 5px;
+}
+
+.checkbox {
+    display: flex;
+}
+
+.checkbox p {
+    width: 118px;
+    height: 24px;
+    margin-left: 16px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 0;
+    font-size: 15px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.formbox button {
+    width: 370px;
+    height: 56px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+    border: none;
+
+    color: #FFFFFF;
+
+    background: #6C63FF;
+    border-radius: 5px;
+}
+
+.forgotpassword {
+    align-self: center;
+    margin-top: 40px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+
+
+    color: #6C63FF;
+}
+
+.register {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #ACACAC;
+}
